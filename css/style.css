@@ -44,7 +44,7 @@ button {
 
 @media screen and (max-width: 890px) {
   .config {
-    visibility: hidden;
+    display: none;
   }
 
   .config_margin {
