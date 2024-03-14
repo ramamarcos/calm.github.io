@@ -46,4 +46,8 @@ button {
   .config {
     visibility: hidden;
   }
+
+  .config_margin {
+    margin-top: 5%;
+  }
 }
