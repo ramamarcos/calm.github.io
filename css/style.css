@@ -50,4 +50,8 @@ button {
   .config_margin {
     margin-top: 5% !important;
   }
+
+  .one-third h4 {
+    margin-bottom: -5px !important;
+  }
 }
