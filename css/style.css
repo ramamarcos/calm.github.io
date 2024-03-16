@@ -15,6 +15,11 @@ span {
   display: block;
 }
 
+.container {
+  position: sticky;
+  top: 0;
+}
+
 .custom-button {
   background-color: #4caf50 !important;
   border-color: #4caf50 !important;
